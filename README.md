@@ -9,7 +9,7 @@
 
 - 📖 Currently a Junior in my Bachelor's in IT with concentration in Cybersecurity in Southern New Hampshire University. Expected completion date: March 2025. My current GPA is 3.8
 
-- 🇻🇪  I am bilingual. I speak English and Spanish.
+- I am bilingual. I speak English and Spanish.
 
 - I was ran over by a car once. I guess it didn't hit me hard enough. 
 
@@ -18,9 +18,6 @@
 [<img align="left" alt="WilsonArteaga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/wilson-arteaga-villalobos/
-
-
-
 
 <!--
 **art-wiju/art-wiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +37,7 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="WilsonArteaga | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="WilsonArteaga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="WilsonArteaga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
