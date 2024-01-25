@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure/Cloud SOC Project</b>
-  - [Creating and managing a live SOC / Honeynet in Azure ](https://github.com/art-wiju/Cloud-SOC-And-Honeynet)
+- [Creating and managing a live SOC / Honeynet in Azure ](https://github.com/art-wiju/Cloud-SOC-And-Honeynet)
+ 
+- [Active Directory Lab with Security Implementation.](https://github.com/art-wiju/Active-Directory-Lab)
  
 <h2> Semi-interesting things about me: </h2>
 
