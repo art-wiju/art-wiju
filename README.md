@@ -5,6 +5,8 @@
 - [Creating and managing a live SOC / Honeynet in Azure ](https://github.com/art-wiju/Cloud-SOC-And-Honeynet)
  
 - [Active Directory Lab with Security Implementation.](https://github.com/art-wiju/Active-Directory-Lab)
+
+- [Vulnerability Management with Nessus Essentials](https://github.com/art-wiju/Nessus-Vulnerability-Management/)
  
 <h2> Semi-interesting things about me: </h2>
 
