@@ -2,15 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Creating and managing a live SOC / Honeynet in Azure ](https://github.com/art-wiju/Cloud-SOC-And-Honeynet)
+- [Creating and managing a SOC / Honeynet in Azure (Real-time traffic) ](https://github.com/art-wiju/Cloud-SOC-And-Honeynet)
  
-- [Active Directory Lab with Security Implementation.](https://github.com/art-wiju/Active-Directory-Lab)
+- [Installing Active Directory, adding users w/ Powershell and Security Group Policy Implementation.](https://github.com/art-wiju/Active-Directory-Lab)
 
-- [Vulnerability Management with Nessus Essentials](https://github.com/art-wiju/Nessus-Vulnerability-Management/)
+- [Vulnerability Scan/Management with Nessus Essentials](https://github.com/art-wiju/Nessus-Vulnerability-Management/)
  
 <h2> Semi-interesting things about me: </h2>
 
-- 📖 Currently a Junior in my Bachelor's in IT with concentration in Cybersecurity in Southern New Hampshire University. Expected completion date: March 2025. My current GPA is 3.8
+- 📖 Currently a Junior in my Bachelor's in IT with concentration in Cybersecurity in Southern New Hampshire University. Expected completion date: March 2025. My current GPA is 3.8, mom is proud.
+
+- I am CompTIA Security+ certified. 
 
 - I am bilingual. I speak English and Spanish.
 
