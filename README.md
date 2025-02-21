@@ -10,9 +10,9 @@
  
 <h2> Semi-interesting things about me: </h2>
 
-- 📖 Currently a Junior in my Bachelor's in IT with concentration in Cybersecurity in Southern New Hampshire University. Expected completion date: March 2025. My current GPA is 3.8, mom is proud.
+- 📖 Currently a Senior in my Bachelor's in IT with concentration in Cybersecurity in Southern New Hampshire University. Expected completion date: March 2025. My current GPA is 3.94, mom is proud.
 
-- I am CompTIA Security+ certified. 
+- I am CompTIA Security+, CySA+, PenTest+, and Cisco CCNA certified. 
 
 - I am bilingual. I speak English and Spanish.
 
