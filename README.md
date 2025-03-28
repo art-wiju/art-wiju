@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wilson! A passionate Cybersecurity Professional and 🐱 Lover.</h1>
+<h1>Hi, I'm Wilson! A passionate Cybersecurity Professional, Geek, Gamer, and cat Lover.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
