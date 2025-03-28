@@ -10,9 +10,11 @@
  
 <h2> Semi-interesting things about me: </h2>
 
-- 📖 Currently a Senior in my Bachelor's in IT with concentration in Cybersecurity in Southern New Hampshire University. Expected completion date: March 2025. My current GPA is 3.94, mom is proud.
+- 📖 Graduated in April 2025 with a BSc in IT with concentration in Cybersecurity in Southern New Hampshire University. My current GPA is 3.94, mom is proud.
 
-- I am CompTIA Security+, CySA+, PenTest+, and Cisco CCNA certified. 
+- I'm starting my Master's in Cybersecurity and Information Assurance summer 2025. 
+
+- I am CompTIA Security+, CySA+, PenTest+, SecurityX (Previous CASP+) and Cisco CCNA certified. 
 
 - I am bilingual. I speak English and Spanish.
 
