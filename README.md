@@ -10,6 +10,8 @@
 
 <h2> Threat Hunting:</h2>
 
+- [Unauthorized TOR Usage](https://github.com/art-wiju/Unauthorized-Tor-Usage)
+
 - [Threat Hunting for Sucessful brute-force from Russian IP address](https://github.com/art-wiju/Successful-Brute-force-from-Russian-IP)
 
 - [Threat Hunting/Incident Response: Impossible Travel and Account Compromise Investigation](https://github.com/art-wiju/Impossible-Travel-SOC-Ticket)
