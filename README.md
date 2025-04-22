@@ -6,16 +6,20 @@
  
 - [Installing Active Directory, adding users w/ Powershell and Security Group Policy Implementation.](https://github.com/art-wiju/Active-Directory-Lab)
 
-- [Vulnerability Scan/Management with Nessus Essentials](https://github.com/art-wiju/Nessus-Vulnerability-Management/)
-
 <h2> Threat Hunting:</h2>
 
 - [Unauthorized TOR Usage](https://github.com/art-wiju/Unauthorized-Tor-Usage)
 
-- [Threat Hunting for Sucessful brute-force from Russian IP address](https://github.com/art-wiju/Successful-Brute-force-from-Russian-IP)
+- [Investigating sucessful brute-force attack from Russian IP address](https://github.com/art-wiju/Successful-Brute-force-from-Russian-IP)
 
-- [Threat Hunting/Incident Response: Impossible Travel and Account Compromise Investigation](https://github.com/art-wiju/Impossible-Travel-SOC-Ticket)
- 
+- [Threat Hunting/Incident Response: Impossible Travel and Account Compromise Investigation (Attack from Nigerian IP)](https://github.com/art-wiju/Impossible-Travel-SOC-Ticket)
+
+## Vulnerability Management Projects
+
+- [Vulnerability Management Program Implementation (From not having one at all)](https://github.com/art-wiju/Vuln-Program-Implementation/)
+
+- [Vulnerability Scan/Management with Nessus Essentials](https://github.com/art-wiju/Nessus-Vulnerability-Management/)
+  
 <h2> Semi-interesting things about me: </h2>
 
 - 📖 Graduated in April 2025 with a BSc in IT with concentration in Cybersecurity in Southern New Hampshire University. My current GPA is 3.94, mom is proud.
