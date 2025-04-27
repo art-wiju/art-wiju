@@ -18,6 +18,8 @@
 
 - [Vulnerability Management Program Implementation (From not having one at all)](https://github.com/art-wiju/Vuln-Program-Implementation/)
 
+- [DoD STIG (Security Technical Implementation Guide) Automated Implementations](https://github.com/art-wiju/STIG-Implementation/)
+
 - [Vulnerability Scan/Management with Nessus Essentials](https://github.com/art-wiju/Nessus-Vulnerability-Management/)
   
 <h2> Semi-interesting things about me: </h2>
