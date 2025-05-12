@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wilson! A passionate Cybersecurity Professional, Geek, Gamer, and cat Lover.</h1>
+<h1>Hi, I'm Wilson! A passionate Cybersecurity Professional, Gamer, Computer Nerd, and cat Lover.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -13,6 +13,8 @@
 - [Investigating sucessful brute-force attack from Russian IP address](https://github.com/art-wiju/Successful-Brute-force-from-Russian-IP)
 
 - [Threat Hunting/Incident Response: Impossible Travel and Account Compromise Investigation (Attack from Nigerian IP)](https://github.com/art-wiju/Impossible-Travel-SOC-Ticket)
+
+- [Script Execution Attack (Atomic Red Team + YARA Rule](https://github.com/art-wiju/Script-Execution-Attack/tree/main)
 
 ## Vulnerability Management Projects
 
