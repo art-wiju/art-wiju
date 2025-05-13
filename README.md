@@ -14,7 +14,7 @@
 
 - [Threat Hunting/Incident Response: Impossible Travel and Account Compromise Investigation (Attack from Nigerian IP)](https://github.com/art-wiju/Impossible-Travel-SOC-Ticket)
 
-- [Script Execution Attack (Atomic Red Team + YARA Rule](https://github.com/art-wiju/Script-Execution-Attack/tree/main)
+- [Script Execution Attack (Atomic Red Team + YARA Rule)](https://github.com/art-wiju/Script-Execution-Attack/tree/main)
 
 ## Vulnerability Management Projects
 
