@@ -16,6 +16,8 @@
 
 - [Script Execution Attack (Atomic Red Team + YARA Rule)](https://github.com/art-wiju/Script-Execution-Attack/tree/main)
 
+- [Threat Hunting CTF: The Great Admin Heist Investigation](https://github.com/art-wiju/CTF-Threat-Hunt-The-Great-Admin-Heist/blob/main/README.md)
+
 ## Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation (From not having one at all)](https://github.com/art-wiju/Vuln-Program-Implementation/)
